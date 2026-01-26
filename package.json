@@ -11,6 +11,6 @@
   "author": "tina-hello",
   "license": "0BSD",
   "dependencies": {
-    "wrangler": "^4.26.0"
+    "wrangler": "^4.59.1"
   }
 }
